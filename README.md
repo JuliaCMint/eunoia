@@ -35,14 +35,11 @@ https://eunoia-store.netlify.app/
 
 > ###### PRODUCTS PAGE
 
-![screenshot-eunoia-store products page](https://github.com/JuliaCMint/eunoia/assets/105377899/4f8f0c36-93c5-4e77-84ad-fe7cfe295d2d)
+![screenshot-eunoia-store products page](https://github.com/JuliaCMint/eunoia/assets/105377899/c13d0f98-3835-42f2-b8f3-72e31cec6ef5)
 
 > ###### SHOPPING CART
 
-![screenshot-eunoia-store shopping cart](https://github.com/JuliaCMint/eunoia/assets/105377899/d79788ef-a53b-458a-9cc5-f3a6eb79db4f)
-
-
-
+![screenshot-eunoia-store shopping cart](https://github.com/JuliaCMint/eunoia/assets/105377899/7155bd77-f2dc-4a7c-beae-58827f8f8da8)
 
 
 
