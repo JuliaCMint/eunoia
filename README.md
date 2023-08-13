@@ -30,9 +30,8 @@ https://eunoia-store.netlify.app/
 #### PREVIEW
 
 > ###### HOME PAGE
-![screenshot-eunoia-store home page](https://github.com/JuliaCMint/eunoia/assets/105377899/95e40323-7354-4950-901f-4032287dbddb)
 
-![screenshot-eunoia-store netlify app-2023 06 28-10_39_01](https://github.com/JuliaCMint/eunoia/assets/105377899/3c84a9a9-3339-4a9c-aebd-1e72c4fb07a7)
+![screenshot-eunoia-store home page](https://github.com/JuliaCMint/eunoia/assets/105377899/3c84a9a9-3339-4a9c-aebd-1e72c4fb07a7)
 
 > ###### PRODUCTS PAGE
 
